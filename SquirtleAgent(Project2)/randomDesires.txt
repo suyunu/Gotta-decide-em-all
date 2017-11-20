@@ -1,0 +1,12 @@
+id;name;date;time;intentionName;hour;energy
+21;Food;0;0;Eating Food;1;3
+22;Rest;0;0;Resting;1;5
+23;Walk;0;0;Walking In VondelPark;2;-1
+24;Catch Pokemon;0;0;Catching Pokemon;1;-2
+25;Funfair;0;0;Going Funfair;1;-1
+26;Poke Cafe;0;0;Going Poke Cafe;2;1
+27;Hangout;0;0;Hanging Out With Friends;1;1
+28;Conference;0;0;Going Conference;1;-1
+29;Art Galleries;0;0;Visiting an Art Gallery;1;-0.5
+30;Festival;0;0;Going to a Festival;2;-1
+31;Exhibition;0;0;Visiting an Exhibition;1;-1

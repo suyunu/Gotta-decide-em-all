@@ -1,0 +1,20 @@
+id;name;date;time;isPlanned;newBeliefs;oldBeliefs;newDesires;oldDesires
+1;Flight Delay;15;10;0;3;2;1;12
+2;Flight to Amsterdam;15;11;1;0;0;12,17;0
+3;Flight to Amsterdam;15;12;-1;0;0;2;0
+4;Landing to Amsterdam;15;16;0;0;0;3,4,5;0
+5;Postponement of Presentation;15;21;0;7,10;6,8;0;6,13,15
+6;THE BIG MOMENT;16;14;1;0;0;13;0
+7;THE BIG MOMENT;19;14;-1;0;0;14;0
+8;Pokemon Sculpture Exhibition;18;20;1;0;0;15;0
+9;Study Presentation;15;20;1;0;0;6;0
+10;Study Presentation;18;20;-1;0;0;7;0
+11;Conference Dinner;20;19;1;0;0;8;0
+12;Check-out from Hotel;21;9;1;0;0;9,10;0
+13;Flight to Home;21;12;1;0;0;11;0
+14;Meet With Friends;16;12;0;15;0;18;0
+15;Visit Van Gogh Museum;17;13;-1;0;0;19;0
+16;Pokemon Gym Fight;16;19;1;0;0;20,21;0
+17;Pokemon Theatre;19;18;1;0;0;22;0
+18;Pokemon Theatre Has Been Cancelled;17;16;0;0;17;0;22
+

@@ -1,0 +1,21 @@
+id;name;date;time;intentionName;hour;energy
+1;Lunch;15;11;Eating Lunch;1;3
+2;Flight to Amsterdam;15;12;Flying to Amsterdam;4;-0.5
+3;Check-in to Hotel;15;17;Checking-in to Hotel;1;-1
+4;Rest;15;18;Resting;1;5
+5;Dinner;15;19;Eating Dinner;1;3
+6;Study Presentation;15;20;Studying Presentation;2;-1
+7;Study Presentation;18;20;Studying Presentation;2;-1
+8;Conference Dinner;20;19;Enjoying After Party;3;-0.5
+9;Check-out from Hotel;21;9;Checking-out from Hotel;1;-1
+10;Go to Airport;21;10;Going to Airport;2;-1
+11;Flight to Home;21;12;Coming Home;4;0
+12;Flight to Amsterdam;15;11;Flying to Amsterdam;4;-0.5
+13;THE BIG MOMENT;16;14;TA DAA;1;-2
+14;THE BIG MOMENT;19;14;TA DAA;1;-2
+15;Pokemon Sculpture Exhibition;18;20;Going to PSE;2;-1
+16;Go to Hotel;15;16;Going to Hotel;1;-1
+17;Go to Airport;15;9;Going to Airport;2;-1
+18;Meeting Friends;16;12;Hanging Out With New Friends;1;-0.5
+19;Van Gogh Museum;17;13;Visiting Van Gogh Museum;2;-1
+20;Go To Movie;18;16;Go To Movie;1;0
